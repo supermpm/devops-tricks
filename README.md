@@ -9,13 +9,14 @@ This script is useful when you need to free up storage.
 
 ### Install
 
+* Install dependencies
 ```
 git clone https://github.com/supermpm/gitlab-tricks
 pip3 install python-gitlab
 pip3 install simplejson
 ```
 
-Edit file remove_artifacts.py and set variables token and host with your data.
+* Edit file remove_artifacts.py and set variables token and host with your data.
 
 ### Use
 
