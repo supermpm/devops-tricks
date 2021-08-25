@@ -1,11 +1,11 @@
 # gitlab-tricks
-Some gitlab tricks for devops and sysadmins
+Some tricks for devops and sysadmins
 
 
 
-## 1- Remove artifacts that have not been tagged
+## 1- Remove gitlab artifacts that have not been tagged
 
-This script is useful when you need to free up storage.
+This script is useful when you need to free up storage in a gitlab server.
 
 ### Install
 
