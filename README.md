@@ -1,4 +1,4 @@
-# gitlab-tricks
+# devops-tricks
 Some tricks for devops and sysadmins
 
 
