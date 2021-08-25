@@ -4,7 +4,7 @@ import simplejson as json
 
 
 if len(sys.argv) <= 1:
-    print("Uso:",sys.argv[0],"[project id] [L|D]" )
+    print("Use:",sys.argv[0],"[project id] [L|D]" )
     sys.exit(1)
 
 project_id = sys.argv[1]
