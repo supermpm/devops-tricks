@@ -2,7 +2,8 @@
 Some gitlab tricks for devops and sysadmins
 
 
-## Remove artifacts that have not been tagged
+
+## 1- Remove artifacts that have not been tagged
 
 This script is useful when you need to free up storage.
 
