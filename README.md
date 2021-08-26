@@ -2,7 +2,6 @@
 Some tricks for devops and sysadmins
 
 
-
 ## 1- Remove gitlab artifacts that have not been tagged
 
 This script is useful when you need to free up storage in a gitlab server.
@@ -82,4 +81,16 @@ pip install pysphere
 >>> get_stopped_vm_count(conn)
 115
 >>> conn.disconnect()
+```
+
+## 3- Simple netfilter firewall with default policy drop
+
+This is a firewall with default policy DROP, yo can add your own rules copying other rules and changing source, destination and port.
+
+### Use
+
+```
+$ ./simple_firewall.sh start
+$ ./simple_firewall.sh stop
+$ ./simple_firewall.sh restart
 ```
