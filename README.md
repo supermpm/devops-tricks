@@ -85,7 +85,7 @@ pip install pysphere
 
 ## 3- Simple netfilter firewall with default policy drop
 
-This is a firewall with default policy DROP, yo can add your own rules copying other rules and changing source, destination and port.
+This is a firewall with default policy DROP. You can add your own rules copying other rules and setting protocol, source, destination and port.
 
 ### Use
 
