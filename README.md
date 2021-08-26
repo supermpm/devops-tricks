@@ -90,7 +90,7 @@ This is a firewall with default policy DROP. You can add your own rules copying 
 ### Use
 
 ```
-$ ./simple_firewall.sh start
-$ ./simple_firewall.sh stop
-$ ./simple_firewall.sh restart
+# ./simple_firewall.sh start
+# ./simple_firewall.sh stop
+# ./simple_firewall.sh restart
 ```
